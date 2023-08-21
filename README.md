@@ -28,12 +28,14 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 
-![Views](https://komarev.com/ghpvc/?username=juniorrkcm&label=Profile+visitors:)
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juniorrkcm&layout=compact&theme=merko)]([https://github.com/jrmydix](https://github.com/juniorrkcm))
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=juniorrkcm&count_private=true&show_icons=true&theme=merko&hide=issues)
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{juniorrkcm}/count.svg" /></p> 
+<br>
 
 <br><br><h2 align="center">Contact:</h2><br>
 
