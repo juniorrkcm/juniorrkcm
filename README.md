@@ -27,9 +27,13 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juniorrkcm&layout=compact&theme=merko)]([https://github.com/jrmydix](https://github.com/juniorrkcm))
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juniorrkcm&layout=compact&theme=merko)]([https://github.com/jrmydix](https://github.com/juniorrkcm))-->
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=juniorrkcm&count_private=true&show_icons=true&theme=merko&hide=issues)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juniorrkcm&layout=compact&theme=transparent)]([https://github.com/jrmydix](https://github.com/juniorrkcm))
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juniorrkcm&show_icons=true&theme=transparent)
+
+<!--![My GitHub stats](https://github-readme-stats.vercel.app/api?username=juniorrkcm&count_private=true&show_icons=true&theme=merko&hide=issues)-->
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
