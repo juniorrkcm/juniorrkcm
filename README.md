@@ -12,20 +12,29 @@
 
 <!--<br><h2 align="center">Skills:</h2><br>-->
 
-## Skills
-  
-<img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="GitHub" width="35px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Python" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Metasploit" width="35px" src="https://blog.zenika.com/wp-content/uploads/2017/07/metasploit-1.png" />
-<img align="left" alt="Wireshark" width="35px" src="https://cdn.icon-icons.com/icons2/1508/PNG/512/wireshark_104082.png" />
-<img align="left" alt="Wireshark" width="130px" src="https://www.pngkey.com/png/full/712-7125945_burp-png.png" />
-<img align="left" alt="Wireshark" width="115px" src="https://static.maltego.com/cdn/Maltego%20Branding/Maltego%20logo%20-%20horizontal/Maltego-Logo-Horizontal-White.png" />
+
+
+### Languages and Tools: 
+<br>
+<p align="center">
+<br>
+  <img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+  <img align="left" alt="GitHub" width="35px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+  <img align="left" alt="Python" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+  <img align="left" alt="Metasploit" width="35px" src="https://blog.zenika.com/wp-content/uploads/2017/07/metasploit-1.png" />
+  <img align="left" alt="Wireshark" width="35px" src="https://cdn.icon-icons.com/icons2/1508/PNG/512/wireshark_104082.png" />
+  <img align="left" alt="Wireshark" width="130px" src="https://www.pngkey.com/png/full/712-7125945_burp-png.png" />
+  <img align="left" alt="Wireshark" width="115px" src="https://static.maltego.com/cdn/Maltego%20Branding/Maltego%20logo%20-%20horizontal/Maltego-Logo-Horizontal-White.png" />
+</p>
+<br>
+<br>
+<br>
+<br>
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juniorrkcm&layout=compact&theme=merko)]([https://github.com/jrmydix](https://github.com/juniorrkcm))-->
