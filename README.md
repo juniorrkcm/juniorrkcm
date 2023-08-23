@@ -19,7 +19,8 @@
 <img align="left" alt="Python" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Metasploit" width="35px" src="https://blog.zenika.com/wp-content/uploads/2017/07/metasploit-1.png" />
 <img align="left" alt="Wireshark" width="35px" src="https://cdn.icon-icons.com/icons2/1508/PNG/512/wireshark_104082.png" />
-<img align="left" alt="Wireshark" width="115px" src="https://www.pngkey.com/png/full/712-7125945_burp-png.png" />
+<img align="left" alt="Wireshark" width="130px" src="https://www.pngkey.com/png/full/712-7125945_burp-png.png" />
+<img align="left" alt="Wireshark" width="115px" src="https://static.maltego.com/cdn/Maltego%20Branding/Maltego%20logo%20-%20horizontal/Maltego-Logo-Horizontal-White.png" />
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
