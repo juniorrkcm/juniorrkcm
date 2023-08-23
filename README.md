@@ -10,18 +10,17 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-<br><h2 align="center">Skills:</h2><br>
+<!--<br><h2 align="center">Skills:</h2><br>-->
 
-
+## Skills
   
-<img src="https://img.shields.io/badge/HTML5-%23E34F26.svg" alt="HTML5 Badge">
-<img src="https://img.shields.io/badge/CSS3-%231572B6.svg" alt="CSS3 Badge">
-<img src="https://img.shields.io/badge/JavaScript-%23323330.svg" alt="JavaScript Badge">
-<img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg"alt="Bootstrap Badge">
-<img src="https://img.shields.io/badge/Materialize_CSS-ee6e73"alt="MaterializeCSS Badge">
-<img src="https://img.shields.io/badge/Socket.io-010101"alt="Socket.IO Badge">
-<img src="https://img.shields.io/badge/Lodash-3498db"alt="Lodash Badge">
-<img src="https://img.shields.io/badge/Python-3776AB.svg" alt="Python Badge">
+<img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="GitHub" width="35px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Python" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="Metasploit" width="35px" src="https://blog.zenika.com/wp-content/uploads/2017/07/metasploit-1.png" />
+<img align="left" alt="Wireshark" width="35px" src="https://cdn.icon-icons.com/icons2/1508/PNG/512/wireshark_104082.png" />
+<img align="left" alt="Wireshark" width="115px" src="https://www.pngkey.com/png/full/712-7125945_burp-png.png" />
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
