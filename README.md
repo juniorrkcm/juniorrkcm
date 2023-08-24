@@ -10,10 +10,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-<!--<br><h2 align="center">Skills:</h2><br>-->
-
-
-
 ### Languages and Tools: 
 <br>
 <p align='center'>
@@ -30,19 +26,14 @@
 <br>
 <br>
 
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juniorrkcm&layout=compact&theme=merko)]([https://github.com/jrmydix](https://github.com/juniorrkcm))-->
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juniorrkcm&layout=compact&theme=transparent)]([https://github.com/jrmydix](https://github.com/juniorrkcm))
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juniorrkcm&show_icons=true&theme=transparent)
-
-<!--![My GitHub stats](https://github-readme-stats.vercel.app/api?username=juniorrkcm&count_private=true&show_icons=true&theme=merko&hide=issues)-->
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
@@ -50,7 +41,6 @@
 <br>
 
 <br><br><h2 align="center">Contact:</h2><br>
-
 
 <div align="center"> 
 <a href="mailto:juniorrkcm@outlook.com?subject=Hola%20Sumanth"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
