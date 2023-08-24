@@ -16,15 +16,14 @@
 
 ### Languages and Tools: 
 <br>
-<p align="center">
-<br>
-  <img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-  <img align="left" alt="GitHub" width="35px" src="https://icones.pro/wp-content/uploads/2021/06/icone-github-grise.png" />
-  <img align="left" alt="Python" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-  <img align="left" alt="Metasploit" width="35px" src="https://blog.zenika.com/wp-content/uploads/2017/07/metasploit-1.png" />
-  <img align="left" alt="Wireshark" width="35px" src="https://cdn.icon-icons.com/icons2/1508/PNG/512/wireshark_104082.png" />
-  <img align="left" alt="Wireshark" width="130px" src="https://www.pngkey.com/png/full/712-7125945_burp-png.png" />
-  <img align="left" alt="Wireshark" width="115px" src="https://static.maltego.com/cdn/Maltego%20Branding/Maltego%20logo%20-%20horizontal/Maltego-Logo-Horizontal-White.png" />
+<p align='center'>
+<img src="https://img.shields.io/badge/wireshark-2F4F4F?style=for-the-badge&logo=wireshark&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/VSCode-%23000000.svg?style=for-the-badge&logo=visualstudiocode&logoColor=0000ff">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/GitHub-%23323330.svg?style=for-the-badge&logo=github&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Metasploit-3670A0?style=for-the-badge&logo=metasploit&logoColor=ffdd54">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/burpsuite-%23E34F26.svg?style=for-the-badge&logo=burpsuite&logoColor=ff4500">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Maltego-%23000000.svg?style=for-the-badge&logo=maltego&logoColor=0000ff">&nbsp;&nbsp;
 </p>
 <br>
 <br>
